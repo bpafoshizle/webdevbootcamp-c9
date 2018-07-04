@@ -64,3 +64,18 @@
 * User can only edit his/her campgrounds
 * User can only delete his/her campgrounds
 * Hide/Show edit and delete buttons
+
+# Editing Comments
+* Add Edit Route for Comments
+* Add Edit button
+* Add Update Route
+
+# Deleting Comments
+* Add Destroy Route
+* Add Delete button 
+
+# Authorization Pt. 2: Comments
+* User can only edit his/her comments
+* User can only delete his/her comments
+* Hide/Show edit/delete buttons
+* Refactor Middleware
